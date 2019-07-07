@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.freemansu.librarygenesis",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.1.2",
+    "applicationType": "monolith",
+    "baseName": "LibraryGenesis",
+    "packageName": "com.freemansu.librarygenesis",
+    "packageFolder": "com/freemansu/librarygenesis",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NmM4OGI0YzdjMTMxZmFkNzNlZjA5ZTAyZTg1OGI0YzFhM2ZlYTk5NjMxMTY5ZTA3YzcwNTFiNjQ3MTdlY2EwODkzOGRkZWU4OGQwN2VjZDIwN2I5MDE5ZmIyZWQxZGY0MmJjZWVlNDAyYzlhZGU0OTM0ODVkNjQxMjFkZWUzMDM=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "materia",
+    "clientThemeVariant": "primary",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "zh-cn"
+    ]
+  }
+}
